@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+    I am a NET software development engineer who likes to learn and share programming techniques
 <!--
 **MorningCigarette/MorningCigarette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
