@@ -1,16 +1,36 @@
-## Hi there 👋
-    I am a NET software development engineer who likes to learn and share programming techniques
-<!--
-**MorningCigarette/MorningCigarette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi there, I'm MorningCigarette 
 
-Here are some ideas to get you started:
+💻 **Software Developer** | Specialized in **Desktop Software** and **Web API**  
+🌟 Passionate about building efficient and user-friendly solutions for the **manufacturing industry**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Skills & Expertise  
+
+- **Languages**:  
+  - C#  
+  - C++  
+
+- **Technologies**:  
+  - Desktop Applications:  
+    - WPF  
+    - WinForms  
+    - Qt  
+  - Web Development:  
+    - Web API  
+
+---
+
+## 🎯 Professional Focus  
+
+I have extensive experience developing robust software solutions tailored to the needs of the **manufacturing sector**. My expertise lies in designing, developing, and maintaining desktop applications and backend systems that streamline production processes and enhance operational efficiency.
+
+---
+
+## 📈 GitHub Projects  
+
+🚧 Stay tuned! I'm working on sharing some of my projects and open-source contributions here.  
+
+---
+
+🌐 Feel free to connect or collaborate. Let's create something amazing together!
