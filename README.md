@@ -32,5 +32,4 @@ I have extensive experience developing robust software solutions tailored to the
 🚧 Stay tuned! I'm working on sharing some of my projects and open-source contributions here.  
 
 ---
-
-🌐 Feel free to connect or collaborate. Let's create something amazing together!
+![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=MorningCigarette)
